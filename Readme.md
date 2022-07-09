@@ -1,1 +1,3 @@
-In this project we are going to calculate Area, Hypotenuse and other fun question
+# Fun with Traingles
+This quiz is going to be on Triangles,
+we are going find out Hypotenus,Area and Other fun questions 
