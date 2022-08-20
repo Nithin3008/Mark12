@@ -35,6 +35,10 @@ nav li {
     display: inline;
     padding: 1rem 1rem;
 }
+.quizBack
+{
+    background-color:   #daefb9;
+}
 
 h1 {
     text-align: center;
@@ -60,6 +64,7 @@ h1 {
 
 button {
     padding: 0.5rem;
+   margin-bottom: 1rem;
     border: none;
     background-color: #84cc16;
     color: white;
